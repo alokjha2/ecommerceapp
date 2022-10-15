@@ -1,0 +1,8 @@
+
+
+git init
+git add .
+git commit -m "ecommerce app"
+git branch -M main
+git remote add origin https://github.com/alokjha2/ecommerceapp.git
+git push -u origin main
